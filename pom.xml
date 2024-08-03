@@ -128,11 +128,6 @@
                 <version>${snakeyaml.version}</version>
             </dependency>
 
-            <dependency>
-                <groupId>io.springfox</groupId>
-                <artifactId>springfox-spring-web</artifactId>
-                <version>${springfox.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -207,8 +202,8 @@
     </build>
 
     <scm>
-        <url>https://github.com/issavior/savior</url>
-        <connection>https://github.com/issavior/savior.git</connection>
+        <url>https://github.com/issavior/sext</url>
+        <connection>https://github.com/issavior/sext.git</connection>
         <developerConnection>https://github.com/issavior</developerConnection>
     </scm>
 
